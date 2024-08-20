@@ -6,4 +6,5 @@ Data that you get from software like xflr5 are marked with comments that says: %
 "cdi.csv" is the placeholder table file for the v vs CDi curve data<br/>
 "CL.csv" is the placeholder table file for the v vs CL curve data<br/>
 
-If you have any suggestions feel free to propose any change you feel it fits
+If you have any suggestions feel free to propose any change you feel it fits<br/>
+EDIT: It now has GUI !
