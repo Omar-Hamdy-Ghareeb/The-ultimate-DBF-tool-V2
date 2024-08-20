@@ -2,7 +2,7 @@ function constraints_array = constraints_analysis(CL_max,v_stall_constraint,np,e
 load("constants.mat","rho");
 
 
-%%%%%%%%%%%%%%% V_stall constraint %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% V_stall constraint %%%%%%%%%%%%%%%%
                 
 
 %                 CL_max = 1;                 % Estimation (Most likely to change)
